@@ -1,0 +1,3 @@
+[submodule "tlearning"]
+	path = tlearning
+	url = https://github.com/tanglef/tlearning
